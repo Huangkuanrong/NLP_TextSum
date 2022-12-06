@@ -1,9 +1,11 @@
 anyascii==0.3.1
+contractions==0.1.73
 huggingface-hub==0.11.1
 keras==2.7.0
 langdetect==1.0.9
 lime==0.2.0.1
 pyahocorasick==1.4.4
+rouge==1.0.1
 shap==0.41.0
 tensorflow==2.7.0
 tensorflow-estimator==2.7.0
